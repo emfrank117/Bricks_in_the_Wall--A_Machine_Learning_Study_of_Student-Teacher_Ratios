@@ -1,1 +1,1 @@
-# Bricks_in_the_Wall--A_Machine_Learning_Study_of_Student-Teacher_Ratios
+# Bricks in the Wall--A Machine Learning Study of Student-Teacher Ratios
